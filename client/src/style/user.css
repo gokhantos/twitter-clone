@@ -1,0 +1,14 @@
+.profilePic{
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    border: black;
+    border-radius: 50%;
+    background: transparent;
+    transition: all 0.1s ease-in;
+}
+
+.profilePic:hover{
+    background: #1a202c;
+    color: #ffffff;
+}
